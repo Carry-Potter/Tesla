@@ -26,7 +26,7 @@ function Section({title, description,backgroundImage,leftBtnText,rightBtnText}) 
                 
             </ButtonGroup>
             </Fade>
-            <DownArrowButton src="../../images/down-arrow.svg"/>
+            <DownArrowButton src="images/down-arrow.svg"/>
             </Down>
         </Wrap>
     </div>
@@ -42,12 +42,12 @@ height: 100vh;
 background-size: cover;
 background-position: center;  
 background-repeat: no-repeat;
-background-image: url('../../images/model-s.jpg');
+background-image: url('images/model-s.jpg');
 display: flex;
 flex-direction: column;
 justify-content: space-between;
 align-items: center;
-background-image: ${props=>`url("../../${props.bgImage}")`}
+background-image: ${props=>`url("images/${props.bgImage}")`}
 `
 const ItemText=styled.div`
 padding-top:15vh;
