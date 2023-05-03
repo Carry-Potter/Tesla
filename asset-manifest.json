@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tesla/static/css/main.1be1775b.css",
+    "main.js": "/tesla/static/js/main.46824aa8.js",
+    "static/js/787.860837ff.chunk.js": "/tesla/static/js/787.860837ff.chunk.js",
+    "index.html": "/tesla/index.html",
+    "main.1be1775b.css.map": "/tesla/static/css/main.1be1775b.css.map",
+    "main.46824aa8.js.map": "/tesla/static/js/main.46824aa8.js.map",
+    "787.860837ff.chunk.js.map": "/tesla/static/js/787.860837ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be1775b.css",
+    "static/js/main.46824aa8.js"
+  ]
+}
